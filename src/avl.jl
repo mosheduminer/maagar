@@ -1,0 +1,3 @@
+module maagar
+
+end #module

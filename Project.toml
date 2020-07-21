@@ -1,0 +1,4 @@
+name = "maagar"
+uuid = "e8c634d4-014c-42a2-ba85-d00290374eb3"
+authors = ["Moshe Uminer <47164590+mosheduminer@users.noreply.github.com>"]
+version = "0.1.0"
